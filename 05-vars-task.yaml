@@ -1,6 +1,6 @@
 - name: variables
   hosts: localhost
-  vars:
+  vars: #variable decleration
     Course: "Terraform"
     Trainer: "Siva"
     Duration: "15hrs"
